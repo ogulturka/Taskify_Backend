@@ -1,0 +1,7 @@
+com\taskify\model\User$Role.class
+com\taskify\model\User.class
+com\taskify\dto\LoginRequest.class
+com\taskify\service\UserService.class
+com\taskify\repository\UserRepository.class
+com\taskify\controller\UserController.class
+com\taskify\TaskifyApplication.class
